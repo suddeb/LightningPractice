@@ -13,4 +13,3 @@
         </aura:iteration>
     </ul>
 </aura:component>
-
